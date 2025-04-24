@@ -43,8 +43,8 @@ const ProfilePage = () => {
   const [profileImage, setProfileImage] = useState("https://i.pravatar.cc/150?img=68");
   const fileInputRef = useRef<HTMLInputElement>(null);
   const [profileData, setProfileData] = useState({
-    fullName: 'Joseph Kamau',
-    email: 'j.kamau@wildlifeservice.org',
+    fullName: 'Wangari Dennis',
+    email: 'dennisndirangu699@gmail.com',
     role: 'Senior Wildlife Officer',
     department: 'Conservation',
     phoneNumber: '+254 712 345 678',
